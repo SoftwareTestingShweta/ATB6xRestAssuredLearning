@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/rahul/IdeaProjects/LerningRestAssured/src/test/java/RSL/ex_22062024/CRUD/POST"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.256">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testNonBDDStylePOSTPositive"
+                time="1.153"
+                classname="RSL.ex_22062024.CRUD.POST.Lab272">
+            </testcase>
+            <testcase
+                name="testNonBDDStylePOSTNegative"
+                time="1.103"
+                classname="RSL.ex_22062024.CRUD.POST.Lab272">
+            </testcase>
+</testsuite>

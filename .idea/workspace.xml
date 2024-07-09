@@ -5,13 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91a2be0e-c4f3-46d7-955a-8866d7e07627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_ra01/Lab261.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_22062024/CRUD/DELETE/Lab275.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_22062024/CRUD/FULL/Lab277.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_22062024/CRUD/GET/BDDStyle/Lab269.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_22062024/CRUD/GET/BDDStyle/NonBDDStyle/Lab270.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_22062024/CRUD/GET/BDDStyle/NonBDDStyle/Lab28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_22062024/CRUD/PATCH/Lab274.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_22062024/CRUD/POST/Lab271.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_22062024/CRUD/POST/Lab272.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_22062024/CRUD/POST/testng_POST.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_22062024/CRUD/PUT/Lab273.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_22062024/CRUD/testng_CRUD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/LAB283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/Lab278.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/Lab279.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/Lab280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/Lab281.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/Lab282.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/Lab284.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/Lab285.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/Lab286.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/listeners/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/listeners/Lab287.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/listeners/Lab288.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/listeners/testng_listener_288.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/testng_all_280.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/testng_chrome_284.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/testng_prod_280.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/testng_qa_280.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/testng_reg_280.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/testng_sanity_280.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_25062024/testng_smoke_280.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/Lab289.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/Lab290.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/gson/serlization/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/gson/serlization/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/gson/serlization/BookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/gson/serlization/Lab291.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/gson/serlization/Lab292.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/gson/serlization/Lab293.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/gson/serlization/Lab294.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/gson/serlization/deserlization/Lab295.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/gson/serlization/gen/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/gson/serlization/gen/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/jackson/deser/Lab296.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/jackson/ser/Lab295.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/jackson/ser/LabTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/jsonSchemaValidation/Lab297.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/ex_27062024/payloadFile/Lab298.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/testNG/Lab262.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/testNG/Lab263.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/testNG/Lab264.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/testNG/Lab265.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/testNG/Lab266.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RSL/testNG/Lab267.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/postRequest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +80,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2ilifFdDhpF6g95mBSZe1gPhacA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,27 +94,165 @@
     "Application.Lab261.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/rahul/IdeaProjects/LerningRestAssured/src/test/java/RSL/ex_22062024/CRUD/POST/testng_POST.xml.executor": "Run",
+    "TestNG.C:/Users/rahul/IdeaProjects/LerningRestAssured/src/test/java/RSL/ex_22062024/CRUD/testng_CRUD.xml.executor": "Run",
+    "TestNG.C:/Users/rahul/IdeaProjects/LerningRestAssured/src/test/java/RSL/ex_25062024/listeners/testng_listener_288.xml.executor": "Run",
+    "TestNG.C:/Users/rahul/IdeaProjects/LerningRestAssured/src/test/java/RSL/ex_25062024/testng_all_280.xml.executor": "Run",
+    "TestNG.C:/Users/rahul/IdeaProjects/LerningRestAssured/src/test/java/RSL/ex_25062024/testng_chrome_284.xml.executor": "Run",
+    "TestNG.C:/Users/rahul/IdeaProjects/LerningRestAssured/src/test/java/RSL/ex_25062024/testng_prod_280.xml.executor": "Run",
+    "TestNG.C:/Users/rahul/IdeaProjects/LerningRestAssured/src/test/java/RSL/ex_25062024/testng_qa_280.xml.executor": "Run",
+    "TestNG.C:/Users/rahul/IdeaProjects/LerningRestAssured/src/test/java/RSL/ex_25062024/testng_reg_280.xml.executor": "Run",
+    "TestNG.C:/Users/rahul/IdeaProjects/LerningRestAssured/src/test/java/RSL/ex_25062024/testng_sanity_280.xml.executor": "Run",
+    "TestNG.C:/Users/rahul/IdeaProjects/LerningRestAssured/src/test/java/RSL/ex_25062024/testng_smoke_280.xml.executor": "Run",
+    "TestNG.C:/Users/rahul/IdeaProjects/LerningRestAssured/testng.xml.executor": "Run",
+    "TestNG.LAB283.executor": "Run",
+    "TestNG.Lab258.executor": "Run",
+    "TestNG.Lab262.executor": "Run",
+    "TestNG.Lab263.executor": "Run",
+    "TestNG.Lab264.executor": "Run",
+    "TestNG.Lab265.executor": "Run",
+    "TestNG.Lab266.executor": "Run",
+    "TestNG.Lab269.executor": "Run",
+    "TestNG.Lab270.executor": "Run",
+    "TestNG.Lab271.executor": "Run",
+    "TestNG.Lab272.executor": "Run",
+    "TestNG.Lab273.executor": "Run",
+    "TestNG.Lab274.executor": "Run",
+    "TestNG.Lab275.executor": "Run",
+    "TestNG.Lab277.executor": "Run",
+    "TestNG.Lab277.testPUTRequestPositive.executor": "Run",
+    "TestNG.Lab278.executor": "Run",
+    "TestNG.Lab279.executor": "Run",
+    "TestNG.Lab280.executor": "Run",
+    "TestNG.Lab281.executor": "Run",
+    "TestNG.Lab282.executor": "Run",
+    "TestNG.Lab284.executor": "Run",
+    "TestNG.Lab286.executor": "Run",
+    "TestNG.Lab290.executor": "Run",
+    "TestNG.Lab291.executor": "Run",
+    "TestNG.Lab292.testCaseGson.executor": "Run",
+    "TestNG.Lab293.executor": "Run",
+    "TestNG.Lab293.testNonBDDStylePOSTPositive.executor": "Run",
+    "TestNG.Lab294.executor": "Run",
+    "TestNG.Lab295 (1).executor": "Run",
+    "TestNG.Lab295.executor": "Run",
+    "TestNG.Lab296.executor": "Run",
+    "TestNG.Lab297.executor": "Run",
+    "TestNG.Lab298.executor": "Run",
+    "TestNG.LabTry.executor": "Run",
+    "TestNG.RSL.ex_22062024.CRUD.executor": "Run",
+    "TestNG.RSL.ex_27062024.gson.serlization.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rahul/IdeaProjects/LerningRestAssured/src/test/java/RSL/ex_25062024/listeners",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Lab261" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RSL.ex_ra01.Lab261" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rahul\IdeaProjects\LerningRestAssured\src\test\java\RSL\ex_25062024\listeners" />
+      <recent name="C:\Users\rahul\IdeaProjects\LerningRestAssured\src\test\java\RSL\ex_25062024" />
+      <recent name="C:\Users\rahul\IdeaProjects\LerningRestAssured\src\test\java\RSL\ex_22062024\CRUD" />
+      <recent name="C:\Users\rahul\IdeaProjects\LerningRestAssured\src\test\java\RSL\ex_22062024\CRUD\POST" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Lab298">
+    <configuration name="Lab294" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LerningRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RSL.ex_ra01.*" />
+          <option name="PATTERN" value="RSL.ex_27062024.gson.serlization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="RSL.ex_27062024.gson.serlization" />
+      <option name="MAIN_CLASS_NAME" value="RSL.ex_27062024.gson.serlization.Lab294" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab295 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LerningRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RSL.ex_27062024.jackson.ser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RSL.ex_27062024.jackson.ser" />
+      <option name="MAIN_CLASS_NAME" value="RSL.ex_27062024.jackson.ser.Lab295" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab296" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LerningRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RSL.ex_27062024.jackson.deser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RSL.ex_27062024.jackson.deser" />
+      <option name="MAIN_CLASS_NAME" value="RSL.ex_27062024.jackson.deser.Lab296" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab297" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LerningRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RSL.ex_27062024.jsonSchemaValidation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RSL.ex_27062024.jsonSchemaValidation" />
+      <option name="MAIN_CLASS_NAME" value="RSL.ex_27062024.jsonSchemaValidation.Lab297" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab298" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LerningRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RSL.ex_27062024.payloadFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RSL.ex_27062024.payloadFile" />
+      <option name="MAIN_CLASS_NAME" value="RSL.ex_27062024.payloadFile.Lab298" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab261" />
+        <item itemvalue="TestNG.Lab298" />
+        <item itemvalue="TestNG.Lab297" />
+        <item itemvalue="TestNG.Lab296" />
+        <item itemvalue="TestNG.Lab295 (1)" />
+        <item itemvalue="TestNG.Lab294" />
       </list>
     </recent_temporary>
   </component>

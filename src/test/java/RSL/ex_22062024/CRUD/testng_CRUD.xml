@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/rahul/IdeaProjects/LerningRestAssured/src/test/java/RSL/ex_22062024/CRUD/POST">
+<!--        <classes>-->
+<!--            <class name="RSL.ex_22062024.CRUD.GET.BDDStyle.NonBDDStyle.Lab270"> </class>-->
+<!--            <class name="RSL.ex_22062024.CRUD.POST.Lab272"> </class>-->
+<!--            <class name="RSL.ex_22062024.CRUD.PUT.Lab273"> </class>-->
+<!--            <class name="RSL.ex_22062024.CRUD.PATCH.Lab274"> </class>-->
+<!--            <class name="RSL.ex_22062024.CRUD.DELETE.Lab275"> </class>-->
+<!--        </classes>-->
+
+        <packages>
+            <package name="RSL.ex_22062024.CRUD.*"/>
+        </packages>
+    </test>
+</suite>

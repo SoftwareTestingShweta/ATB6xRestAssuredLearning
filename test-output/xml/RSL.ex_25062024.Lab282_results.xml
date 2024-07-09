@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LerningRestAssured"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.082">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPUTRequest"
+                time="0.000"
+                classname="RSL.ex_25062024.Lab282">
+            </testcase>
+            <testcase
+                name="testDeleteRequest"
+                time="0.000"
+                classname="RSL.ex_25062024.Lab282">
+            </testcase>
+            <testcase
+                name="getBookingID"
+                time="0.078"
+                classname="RSL.ex_25062024.Lab282">
+            </testcase>
+            <testcase
+                name="getToken"
+                time="0.004"
+                classname="RSL.ex_25062024.Lab282">
+            </testcase>
+</testsuite>

@@ -1,0 +1,1 @@
+{"uuid":"f4cc9ebf-67ac-405c-b45e-8ab349988fa5","name":"All Test Suite","children":["ba567ab6-b125-46aa-a818-9a739be73084"],"befores":[],"afters":[{"name":"sendEmailToQALead","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1720430138798,"stop":1720430138800}],"start":1720430138531,"stop":1720430138802}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LerningRestAssured"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.012">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequest3"
+                time="0.002"
+                classname="RSL.testNG.Lab263">
+            </testcase>
+            <testcase
+                name="getRequest"
+                time="0.010"
+                classname="RSL.testNG.Lab263">
+            </testcase>
+</testsuite>
